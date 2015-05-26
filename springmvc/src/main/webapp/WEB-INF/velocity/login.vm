@@ -20,8 +20,8 @@
   </head>  
   <body>  
   <div  class="container">  
-      <form class="form-signin" role="form" action="login">  
-        <h2 class="form-signin-heading">Login</h2>  
+      <form class="form-signin" role="form" action="index.do">  
+        <h2 class="form-signin-heading">Login by VM</h2>  
         <input type="text" name="username" class="form-control" placeholder="Please input username" required autofocus>  
     
         <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>  
