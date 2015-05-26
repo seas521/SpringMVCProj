@@ -139,7 +139,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!-- velocity -->
+		<!-- velocity  -->
 		<dependency>
             <groupId>org.apache.velocity</groupId>
             <artifactId>velocity</artifactId>
